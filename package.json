@@ -1,7 +1,7 @@
 {
   "name": "@lazymac/mcp",
-  "version": "0.1.0",
-  "description": "Unified MCP server for 36+ lazymac developer APIs (REST + MCP)",
+  "version": "1.0.0",
+  "description": "Unified MCP server exposing 42+ lazymac developer APIs (REST + MCP) \u2014 Cloudflare Workers backend, sub-200ms, free tier",
   "main": "src/index.js",
   "type": "module",
   "bin": {
@@ -10,10 +10,20 @@
   "scripts": {
     "start": "node src/index.js"
   },
-  "keywords": ["mcp", "model-context-protocol", "api", "developer-tools", "cloudflare-workers", "k-mcp"],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "api",
+    "developer-tools",
+    "cloudflare-workers",
+    "k-mcp"
+  ],
   "author": "lazymac2x",
   "license": "MIT",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.4"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.0"
   }
 }
