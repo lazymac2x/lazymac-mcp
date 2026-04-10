@@ -1,0 +1,19 @@
+{
+  "name": "@lazymac/mcp",
+  "version": "0.1.0",
+  "description": "Unified MCP server for 36+ lazymac developer APIs (REST + MCP)",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "lazymac-mcp": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["mcp", "model-context-protocol", "api", "developer-tools", "cloudflare-workers", "k-mcp"],
+  "author": "lazymac2x",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  }
+}
