@@ -1,0 +1,15 @@
+runtime: "container"
+build:
+  dockerfile: "Dockerfile"
+  dockerBuildPath: "."
+startCommand:
+  type: "stdio"
+  configSchema:
+    type: "object"
+    properties:
+      apiBase:
+        type: "string"
+        description: "Base URL for lazymac API hub"
+        default: "https://api.lazy-mac.com"
+  exampleConfig:
+    apiBase: "https://api.lazy-mac.com"
