@@ -1,5 +1,7 @@
 # lazymac-mcp
 
+> ⭐ **Building in public from $0 MRR.** Star if you want to follow the journey — [lazymac-mcp](https://github.com/lazymac2x/lazymac-mcp) (42 tools, one MCP install) · [lazymac-k-mcp](https://github.com/lazymac2x/lazymac-k-mcp) (Korean wedge) · [lazymac-sdk](https://github.com/lazymac2x/lazymac-sdk) (TS client) · [api.lazy-mac.com](https://api.lazy-mac.com) · [Pro $29/mo](https://coindany.gumroad.com/l/zlewvz).
+
 > Unified MCP server exposing 36+ [lazymac](https://api.lazy-mac.com) developer APIs as tools for Claude Code, Cursor, Windsurf, and any MCP client.
 
 [![smithery badge](https://smithery.ai/badge/@lazymac/mcp)](https://smithery.ai/server/@lazymac/mcp)
