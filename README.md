@@ -5,6 +5,7 @@
 > Unified MCP server exposing 36+ [lazymac](https://api.lazy-mac.com) developer APIs as tools for Claude Code, Cursor, Windsurf, and any MCP client.
 
 [![smithery badge](https://smithery.ai/badge/@lazymac/mcp)](https://smithery.ai/server/@lazymac/mcp)
+[![lazymac2x/lazymac-mcp MCP server](https://glama.ai/mcp/servers/lazymac2x/lazymac-mcp/badges/score.svg)](https://glama.ai/mcp/servers/lazymac2x/lazymac-mcp)
 
 ## Tools (15+ shipped, 36 in roadmap)
 
