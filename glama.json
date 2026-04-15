@@ -1,0 +1,7 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": ["lazymac2x"],
+  "categories": ["developer-tools", "api"],
+  "description": "Unified MCP server exposing 42+ lazymac developer APIs as tools — REST + MCP for Claude Code, Cursor, Windsurf",
+  "tools": []
+}
